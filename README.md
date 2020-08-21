@@ -1,6 +1,15 @@
-README
+I guess this is the README file!
 
-*How to Play the game
+**How to Play the game**
+
+-> **Better** Way to enjoy the Game
+0. Go to this website and enjoy the game!
+https://connect.unity.com/mg/other/themoon-0
+1. Left, Right keys move Sam left and right. Space key is for jumping and ESC key is for the pause/control menu.
+2. When you fall down from the tiles, it’s okay. You have 3 lives for each level, and you can see the remaining life counter at the top right corner.
+3. Sometimes, the objectives may require you to press e key. A message will appear in the screen when player should do so.
+
+-> If you want to play the Game within your Unity 
 1. Start the game from the “StartingScene”. We already have set the build setting, so you will be able to see the level flow, but we also added the level design in our final report just in case.
 2. Left, Right keys move Sam left and right. Space key is for jumping and ESC key is for the pause/control menu.
 3. When you fall down from the tiles, it’s okay. You have 3 lives for each level, and you can see the remaining life counter at the top right corner.
